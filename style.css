@@ -34,6 +34,39 @@ body {
 .home-inner {
   background-image: url(img/computers.png);
 }
+.caption {
+
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  text-transform: uppercase;
+  top: 35%;
+  z-index: 1;
+  color: white;
+
+}
+
+.caption h1 {
+
+  font-size: 3.8rem;
+  font-weight: 700;
+  letter-spacing: .4rem;
+  text-shadow: .1rem .1rem .8rem #111;
+  /* margin-bottom: 1rem; */
+  padding-bottom: 1rem;
+
+}
+
+
+
+.caption h3 {
+
+  font-size: 2rem;
+  text-shadow: .1rem .1rem 1rem #111;
+  /* margin-bottom: 1.5rem; */
+  padding-bottom: 1.6rem;
+
+}
 
 /*============= COURSE SECTION =============*/
 
