@@ -7,6 +7,15 @@ body {
   color: #1673cf;
 }
 
+.offset::before {
+
+  content: ' ';
+  display: block;
+  height: 4rem;
+  margin-top: -4rem;
+
+}
+
 /* Navigation */
 
 .navbar {
@@ -66,7 +75,6 @@ body {
   padding-bottom: 1rem;
 
 }
-
 
 
 .caption h3 {
