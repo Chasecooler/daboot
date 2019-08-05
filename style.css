@@ -250,7 +250,8 @@ footer a {
 }
 
 footer a:hover {
-  color: darkblue;
+  color: tomato;
+  /* color: darkblue; */
 
 }
 
