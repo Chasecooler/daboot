@@ -48,6 +48,8 @@ margin-right: 0px!important;
 .fixed-background {
   position: relative;
   width: 100%;
+  background-image: url(./img/computers3.JPG);
+  
 }
 .fixed-wrap {
   clip: rect(0, auto, auto, 0);
